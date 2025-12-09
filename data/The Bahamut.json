@@ -1,14 +1,12 @@
 {
-    "id": "Unkown",
-    "name": "The Bahumut",
-    "author": "Renn241",
-    "creators": ["Renn241"],
-    "verifier": "BlankB",
+    "id": 89992239,
+    "name": "The Bahamut",
+    "author": "TheRealAceTad",
+    "creators": ["TheRealAceTad"],
+    "verifier": "TheRealAceTad",
     "verification": "https://www.youtube.com/watch?v=eYSTJC_q-8A",
     "percentToQualify": 45,
     "password": "No Password",
-    "length": "15min & 56s"
-    "stars": 10
     "records": [
         {
             "user": "zZoink",
