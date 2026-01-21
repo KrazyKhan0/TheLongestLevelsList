@@ -10,7 +10,8 @@
     "records": [
         {
             "user": "RogueCircuit",
-            "percent": 100
+            "percent": 100,
+            "hertz": 240
         }
     ]
 }
