@@ -1,0 +1,18 @@
+{
+    "id": 0,
+    "name": "Admin Points",
+    "author": "Rogue Circuit",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Verifier",
+    "verification": "",
+    "percentToQualify": 101,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Rogue Circuit",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
